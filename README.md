@@ -11,16 +11,6 @@ The report is divided into two main sections:
 
 ---
 
-## 📸 Dashboard Screenshots  
-
-### 🔹 Summary Dashboard  
-![Banking-Financial-Data-Analysis-and-Dashboard-using-Excel-and-SQL
-](Screenshot 2025-08-14 200034.png)
-
-### 🔹 Overview Dashboard  
-![Banking-Financial-Data-Analysis-and-Dashboard-using-Excel-and-SQL
-](Screenshot 2025-08-14 200058)
-
 
 ## 🎯 Objectives
 - Track **total loan applications**, **funded amount**, and **received amount**.  
