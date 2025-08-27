@@ -14,7 +14,7 @@ The report is divided into two main sections:
 ## 📸 Dashboard Screenshots  
 
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](summary.png)
+!(Screenshot 2025-08-14 200034.png)
 
 ### 🔹 Overview Dashboard  
 ![Overview Dashboard](overview.png)
