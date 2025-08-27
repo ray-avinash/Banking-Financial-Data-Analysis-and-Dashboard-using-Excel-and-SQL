@@ -11,6 +11,15 @@ The report is divided into two main sections:
 
 ---
 
+## 📸 Dashboard Screenshots  
+
+### 🔹 Summary Dashboard  
+![Summary Dashboard](images/summary.png)
+
+### 🔹 Overview Dashboard  
+![Overview Dashboard](images/overview.png)
+
+
 ## 🎯 Objectives
 - Track **total loan applications**, **funded amount**, and **received amount**.  
 - Monitor **good loans vs bad loans** performance.  
