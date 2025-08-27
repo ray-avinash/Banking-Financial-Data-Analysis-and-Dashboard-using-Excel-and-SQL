@@ -14,10 +14,10 @@ The report is divided into two main sections:
 ## 📸 Dashboard Screenshots  
 
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](images/summary.png)
+![Summary Dashboard](summary.png)
 
 ### 🔹 Overview Dashboard  
-![Overview Dashboard](images/overview.png)
+![Overview Dashboard](overview.png)
 
 
 ## 🎯 Objectives
